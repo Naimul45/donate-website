@@ -1,0 +1,94 @@
+body{
+  font-family: 'Oswald', sans-serif;
+  margin:0
+}
+h1{
+  font-size:40px;
+  color:orange;
+  width:400px;
+  margin-left:500px;
+  text-align:center;
+  padding-top:100px
+  
+ 
+}
+p{
+  text-align: center;
+  width:600px;
+  margin-left:400px;
+  color:#fefdfd;
+  font-size:20px
+}
+.container{
+  background-image: url(/images/donation9.jpg);
+  height:530px;;
+  margin-top:-33px
+}
+.donate a{
+  margin-left:620px;
+  text-decoration: none;
+  color:#fff;
+  padding:10px 40px;
+  background-image:linear-gradient(tomato,orange);
+  border-radius: 5px;
+  
+  
+  
+}
+.donate{
+  margin-top:30px
+}
+/* section 2*/
+.flex-container{
+  display:flex;
+  margin-left:400px;
+
+}
+.flex-container{
+display:flex;
+margin-left:470px
+}
+.flex-box{
+ padding:25px 10px;
+ background-color:#dcdcdc;
+ margin:10px
+}
+.flex-container .flex-box{
+  font-weight: 900;
+  font-size:20px;
+  color:#575252
+}
+#specific{
+  border:2px solid red;
+  background: #fbd3d3;
+  color:red
+}
+#paragraph{
+  color:#dcdcdc
+}
+hr{
+  width:700px
+}
+.food-family{
+  width:20%;
+  margin:20px;
+  margin-left:30px;
+  border:none;
+  padding:20px
+}
+.container-box{
+  display:flex;
+  margin-left:165px
+}
+.family-img{
+  width:70px
+}
+#food{
+  background-color: #fbd3d3;
+}
+#family{
+  background-color: #6495ed;
+}
+#icon{
+  background:#daa137
+}
