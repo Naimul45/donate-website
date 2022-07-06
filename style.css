@@ -2,15 +2,32 @@ body{
   font-family: 'Oswald', sans-serif;
   margin:0
 }
-h1{
+.container{
+  background-image: url(./images/donation9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:732px;
+  margin-top:-33px
+}
+#heading-1{
   font-size:40px;
   color:orange;
   width:400px;
   margin-left:500px;
   text-align:center;
-  padding-top:100px
+  padding-top:200px
   
  
+}
+#donate{
+  padding-top:50px;
+  text-align:center;
+  font-size:50px
+}
+#our-donate{
+  padding-top:60px;
+  text-align:center;
+  font-size:50px
 }
 p{
   text-align: center;
@@ -19,11 +36,13 @@ p{
   color:#fefdfd;
   font-size:20px
 }
-.container{
-  background-image: url(/images/donation9.jpg);
-  height:530px;;
-  margin-top:-33px
+#get-updates{
+  padding-top:47px;
+  text-align:center;
+  font-size:50px
 }
+
+
 .donate a{
   margin-left:620px;
   text-decoration: none;
@@ -117,7 +136,7 @@ hr{
   margin-left:30px
 }
 h3{
-  font-size:35px
+  font-size:20px
 }
 .image-6 img{
   width:600px;
