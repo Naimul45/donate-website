@@ -130,3 +130,45 @@ h3{
 .heading-p{
   margin-top:150px
 }
+#text-6{
+  color:black
+}
+
+form{
+  text-align: center;
+  background-color: #fbd3d3;
+  height:200px;
+  margin-left: 200px;
+  margin-right:200px
+}
+form input{
+  height:30px;
+  width:150px;
+  margin-top:75px
+}
+#email{
+  width:300px;
+  
+}
+#submit{
+  height:34px;
+  background:red;
+  color:white;
+  border:none
+}
+#be-humble{
+  text-align: center;
+  margin-left: 65px;
+  font-family: monospace;
+  color:#ec3a3a;
+  padding-top:40px
+}
+#l-paragraph{
+  color:white
+}
+footer{
+  background:black ;
+  height:200px;
+}
+
+
