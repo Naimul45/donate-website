@@ -92,3 +92,30 @@ hr{
 #icon{
   background:#daa137
 }
+
+.text{
+  color:black;
+  text-align: left;
+  margin-left:0px
+}
+
+.anchor a{
+  margin-left:0px
+}
+.section-3{
+  display:flex;
+  margin-top:100px
+}
+.image-5 img{
+  padding:20px;
+  margin-left:300px;
+}
+.side-1{
+  padding:20px;
+  width:300px;
+  margin-right:10px;
+  margin-left:30px
+}
+h3{
+  font-size:35px
+}
